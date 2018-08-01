@@ -1,5 +1,4 @@
 backend:
-backend:
   name: github
   repo: spences10/gatsby-netlify-cms
 

@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Netlify CMS example',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-netlify-cms',
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/src/posts/`,
-        name: 'markdown-pages',
+        path: `${__dirname}/blog`,
+        name: 'posts',
       },
     },
     'gatsby-transformer-remark',

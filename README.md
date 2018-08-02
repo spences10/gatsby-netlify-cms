@@ -1,7 +1,5 @@
 # Gatsby Netlify CMS example
 
-###### Bootstrapped wit the default Gatsby starter.
-
 ## An example site for using the Netlify CMS
 
 This is a Gatsby v2 example using the Netlify CMS with GitHub Auth
@@ -24,3 +22,5 @@ backend:
 Click this button to add this repo to your Netlify instance.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/spences10/gatsby-netlify-cms)
+
+##### Bootstrapped wit the default Gatsby starter.

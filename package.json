@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-netlify-cms",
+  "description": "Gatsby Netlify CMS starter",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Scott Spence <spences10apps@gmail.com>",
   "dependencies": {
     "gatsby": "next",
     "gatsby-plugin-netlify-cms": "3.0.0-beta.1",

@@ -9,6 +9,9 @@ This is a Gatsby v2 example using the Netlify CMS with GitHub Auth
 Creating an Auth Provider:
 https://www.netlify.com/docs/authentication-providers/#using-an-authentication-provider
 
+Details on that here:
+https://www.netlifycms.org/docs/authentication-backends/#github-backend
+
 Amend your `config.yml`
 
 ```yml

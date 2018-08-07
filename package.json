@@ -1,7 +1,7 @@
 {
   "name": "gatsby-netlify-cms",
   "description": "Gatsby Netlify CMS starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Scott Spence <spences10apps@gmail.com>",
   "dependencies": {
     "gatsby": "next",
@@ -10,9 +10,9 @@
     "gatsby-source-filesystem": "2.0.1-beta.10",
     "gatsby-transformer-remark": "2.1.1-beta.5",
     "netlify-cms": "2.0.6",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-helmet": "^5.2.0"
+    "react": "16.4.1",
+    "react-dom": "16.4.1",
+    "react-helmet": "5.2.0"
   },
   "keywords": [
     "gatsby"

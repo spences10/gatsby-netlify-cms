@@ -1,7 +1,9 @@
 ---
-path: "/my-second-post"
-date: "2018-08-01"
-title: "Second post of awesome!"
+path: '/my-second-post kk '
+date: '2018-08-01'
+title: Second post of awesome!
+tags: 'first post, yeah'
+published: true
 ---
 
 # jajaja!

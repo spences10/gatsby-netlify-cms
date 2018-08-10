@@ -6,6 +6,10 @@ This is a Gatsby v2 example using the Netlify CMS with GitHub Auth
 
 ## Setup
 
+To use an auth provider with Netlify you need to use your ow n OAuth
+by creating your own GitHub Authentication provider in your Netlify
+settings Access Control section.
+
 Creating an Auth Provider:
 https://www.netlify.com/docs/authentication-providers/#using-an-authentication-provider
 

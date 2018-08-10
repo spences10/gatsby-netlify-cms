@@ -7,4 +7,4 @@ published: true
 ---
 ![Beach ](/assets/img_20180806_151405_01.jpg)
 
-![Beach p
+Beach p

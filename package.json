@@ -23,6 +23,7 @@
     "develop": "gatsby develop",
     "format": "pretty-quick",
     "precommit": "pretty-quick --staged",
+    "serve": "gatsby serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {

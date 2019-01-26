@@ -4,6 +4,10 @@
 
 This is a Gatsby v2 example using the Netlify CMS with GitHub Auth
 
+## Added Utterances
+
+Comments, as GitHub issues!!!
+
 ## Setup
 
 ### Identity

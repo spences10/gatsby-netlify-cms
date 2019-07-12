@@ -4646,10 +4646,10 @@ fuzzy@^0.1.1:
   resolved "https://registry.yarnpkg.com/fuzzy/-/fuzzy-0.1.3.tgz#4c76ec2ff0ac1a36a9dccf9a00df8623078d4ed8"
   integrity sha1-THbsL/CsGjap3M+aAN+GIweNTtg=
 
-gatsby-cli@^2.7.12:
-  version "2.7.12"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.12.tgz#3361b3e471bdac129918d4b3d0286f9df9c72458"
-  integrity sha512-JqpXEQSz9hUqd/timNqBqhPifZI29OrG+2n+itQPOSapK8Cr42I5y3x/ahuHcpFqJLYdGQYpzndK7VG457MStg==
+gatsby-cli@^2.7.13:
+  version "2.7.13"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.13.tgz#d1789da963ccc1ad2b0143a05abe869cf6997206"
+  integrity sha512-Wb1+yS0XKejFrZAIrCPYnKHUAU5LIzijOoamRRaBx2K7bbrpI9hzvZFehHoKR1L32DDfmpTgpYs4gKl+EPcTpg==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/runtime" "^7.0.0"
@@ -4722,10 +4722,10 @@ gatsby-page-utils@^0.0.4:
     micromatch "^3.1.10"
     slash "^1.0.0"
 
-gatsby-plugin-netlify-cms@4.1.4:
-  version "4.1.4"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-4.1.4.tgz#06309cee217e5fb3c27053ee32de553e8b1bcd08"
-  integrity sha512-fHMPD4YyH3e7KTHZj9i4DMqwKBccmsVmWOepUCDqBBepPXMGSvFctAJK+chne+9l2Tp0BIFDXmP7WqIpgjjmEA==
+gatsby-plugin-netlify-cms@4.1.5:
+  version "4.1.5"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-4.1.5.tgz#ea3da3b026848cf7990e5916a56f09ea9f2d3a1b"
+  integrity sha512-uPb68t2czXH+J3yKmjY8e75hc0m5erm7T1DZh2Rr39jqQySpQ6sP21oF+09ZwhlpoBHMmxq4QI0t5gqnKNvy7g==
   dependencies:
     "@pieh/friendly-errors-webpack-plugin" "1.7.0-chalk-2"
     html-webpack-exclude-assets-plugin "^0.0.7"
@@ -4833,10 +4833,10 @@ gatsby-transformer-remark@2.6.4:
     unist-util-select "^1.5.0"
     unist-util-visit "^1.3.0"
 
-gatsby@2.13.17:
-  version "2.13.17"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.17.tgz#87f3e40471ac623fb4b34050471567c7fc4f2cd6"
-  integrity sha512-cTv68EKLMpNEQOncZosDzTQU15W+OxkpYIPDnEGe3L0dILQFJgJ/b5KY+t9Mi8/MHmNfpysuoE2DDpnlLpx2uA==
+gatsby@2.13.18:
+  version "2.13.18"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.18.tgz#afb62cd25c359aa56cbf02c1974eef7367a5d759"
+  integrity sha512-M0NOld8AQIuPVtzwS1n+/bDBJwOJNWpoRzWhmutwE3F62fW020YS/PmVtbyembOZ5H3fSSXcjkkngGfoh8IXdQ==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.0.0"
@@ -4895,7 +4895,7 @@ gatsby@2.13.17:
     flat "^4.0.0"
     fs-exists-cached "1.0.0"
     fs-extra "^5.0.0"
-    gatsby-cli "^2.7.12"
+    gatsby-cli "^2.7.13"
     gatsby-graphiql-explorer "^0.2.3"
     gatsby-link "^2.2.2"
     gatsby-plugin-page-creator "^2.1.4"

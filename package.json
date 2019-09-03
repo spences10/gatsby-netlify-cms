@@ -1,10 +1,10 @@
 {
   "name": "gatsby-netlify-cms",
   "description": "Gatsby Netlify CMS starter",
-  "version": "1.0.385",
+  "version": "1.0.386",
   "author": "Scott Spence <spences10apps@gmail.com>",
   "dependencies": {
-    "gatsby": "2.15.3",
+    "gatsby": "2.15.4",
     "gatsby-plugin-netlify-cms": "4.1.13",
     "gatsby-plugin-react-helmet": "3.1.6",
     "gatsby-source-filesystem": "2.1.19",

@@ -1,18 +1,18 @@
 {
   "name": "gatsby-netlify-cms",
   "description": "Gatsby Netlify CMS starter",
-  "version": "1.0.417",
+  "version": "1.0.434",
   "author": "Scott Spence <spences10apps@gmail.com>",
   "dependencies": {
-    "gatsby": "2.16.3",
-    "gatsby-plugin-netlify-cms": "4.1.25",
-    "gatsby-plugin-react-helmet": "3.1.13",
-    "gatsby-source-filesystem": "2.1.33",
-    "gatsby-transformer-remark": "2.6.30",
+    "gatsby": "2.18.5",
+    "gatsby-plugin-netlify-cms": "4.1.30",
+    "gatsby-plugin-react-helmet": "3.1.16",
+    "gatsby-source-filesystem": "2.1.39",
+    "gatsby-transformer-remark": "2.6.38",
     "netlify-cms": "2.9.7",
     "netlify-cms-app": "2.9.7",
-    "react": "16.10.2",
-    "react-dom": "16.10.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
     "react-helmet": "5.2.1",
     "react-utterances": "0.6.4"
   },
@@ -29,8 +29,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "1.18.2",
-    "pretty-quick": "2.0.0"
+    "prettier": "1.19.1",
+    "pretty-quick": "2.0.1"
   },
   "repository": {
     "type": "git",

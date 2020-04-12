@@ -4,9 +4,9 @@
   "version": "1.0.500",
   "author": "Scott Spence <spences10apps@gmail.com>",
   "dependencies": {
-    "gatsby": "2.20.12",
+    "gatsby": "2.20.18",
     "gatsby-plugin-netlify-cms": "4.2.2",
-    "gatsby-plugin-react-helmet": "3.2.1",
+    "gatsby-plugin-react-helmet": "3.2.2",
     "gatsby-source-filesystem": "2.2.2",
     "gatsby-transformer-remark": "2.7.1",
     "netlify-cms": "2.10.43",
